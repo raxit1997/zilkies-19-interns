@@ -1,3 +1,6 @@
 one
 two
 three
+add(a, b) {
+    return a + b;
+}
